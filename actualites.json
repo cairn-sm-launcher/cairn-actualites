@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "publie": 1791100000,
+  "publie": 1791196200,
   "articles": [
     {
       "id": "2026-10-04-bienvenue",
-      "titre": "Cairn ouvre son fil d'actualites",
+      "titre": "Cairn ouvre son fil d'actualités",
       "categorie": "technique",
-      "date": 1791100000,
-      "resume": "Les annonces de la communaute arrivent directement dans le launcher, sans compte et sans serveur.",
+      "date": 1791136800,
+      "resume": "Les annonces de la communauté arrivent directement dans le launcher, sans compte et sans serveur.",
       "langue": "fr",
       "epingle": true,
-      "corps": "Les actualites que tu lis ici viennent d'un fichier public, **signe**, que Cairn verifie avant de l'afficher.\n\nConcretement :\n\n- aucun compte, aucune inscription, aucune donnee personnelle\n- le fil est garde sur ta machine, donc il s'affiche meme hors ligne\n- une annonce se propose comme une modification sur le depot public\n\n## Ce qu'on peut y mettre\n\nDes annonces de coupe, des mappacks, des mises a jour de mode, des appels a joueurs, des questions techniques. Si tu veux publier quelque chose, la marche a suivre est sur le depot.\n\n> Un fil dont la signature ne colle pas n'est pas affiche. C'est volontaire : mieux vaut pas d'actualites que des actualites que personne n'a ecrites."
+      "corps": "Les actualités que tu lis ici viennent d'un fichier public, **signé**, que Cairn vérifie avant de l'afficher.\n\nConcrètement :\n\n- aucun compte, aucune inscription, aucune donnée personnelle\n- le fil est gardé sur ta machine, donc il s'affiche même hors ligne\n- une annonce se propose comme une modification sur le dépôt public\n\n## Ce qu'on peut y mettre\n\nDes annonces de coupe, des mappacks, des mises à jour de mode, des appels à joueurs, des questions techniques. Si tu veux publier quelque chose, la marche à suivre est sur le dépôt.\n\n> Un fil dont la signature ne colle pas n'est pas affiché. C'est volontaire : mieux vaut pas d'actualités que des actualités que personne n'a écrites."
     },
     {
       "id": "2026-10-04-welcome",
       "titre": "Cairn opens its news feed",
       "categorie": "technique",
-      "date": 1791100000,
+      "date": 1791136800,
       "resume": "Community announcements land straight in the launcher, with no account and no server.",
       "langue": "en",
       "epingle": true,
@@ -26,31 +26,31 @@
       "id": "2026-10-03-coupe-atria",
       "titre": "Coupe Atria, samedi 21h",
       "categorie": "tournoi",
-      "date": 1791013600,
-      "resume": "Inscriptions ouvertes jusqu'a vendredi soir, en equipe de trois.",
+      "date": 1791054000,
+      "resume": "Inscriptions ouvertes jusqu'à vendredi soir, en équipe de trois.",
       "langue": "fr",
       "epingle": false,
-      "corps": "La coupe hebdomadaire reprend samedi a 21h, en Elite, equipes de trois.\n\n1. Inscris ton equipe avant vendredi 20h\n2. Presente toi sur le serveur a 20h45\n3. Le premier tour commence a 21h precises\n\nLe mappack est celui de septembre, sans changement."
+      "corps": "La coupe hebdomadaire reprend samedi à 21h, en Élite, équipes de trois.\n\n1. Inscris ton équipe avant vendredi 20h\n2. Présente-toi sur le serveur à 20h45\n3. Le premier tour commence à 21h précises\n\nLe mappack est celui de septembre, sans changement."
     },
     {
       "id": "2026-10-02-frostline",
       "titre": "Frostline, nouveau mappack",
       "categorie": "maps",
-      "date": 1790927200,
-      "resume": "Huit maps Elite, disponibles sur ShootMania Exchange.",
+      "date": 1790967600,
+      "resume": "Huit maps Élite, disponibles sur ShootMania Exchange.",
       "langue": "fr",
       "epingle": false,
-      "corps": "Huit maps Elite, pensees pour le jeu en equipe serree.\n\nElles sont sur [ShootMania Exchange](https://sm.mania.exchange/) et sur les serveurs de la communaute depuis hier soir.\n\nRetours bienvenus, en particulier sur la troisieme, dont le temps de capture est peut-etre trop court."
+      "corps": "Huit maps Élite, pensées pour le jeu en équipe serrée.\n\nElles sont sur [ShootMania Exchange](https://sm.mania.exchange/) et sur les serveurs de la communauté depuis hier soir.\n\nRetours bienvenus, en particulier sur la troisième, dont le temps de capture est peut-être trop court."
     },
     {
       "id": "2026-09-30-serveurs",
-      "titre": "Merci a ceux qui tiennent les serveurs",
+      "titre": "Merci à ceux qui tiennent les serveurs",
       "categorie": "entraide",
-      "date": 1790754400,
+      "date": 1790794800,
       "resume": "Un rappel amical : les serveurs ne tournent pas tout seuls.",
       "langue": "fr",
       "epingle": false,
-      "corps": "Les serveurs de la communaute sont payes et administres par des gens qui le font sur leur temps.\n\nSi tu joues regulierement, un mot de remerciement coute peu et fait beaucoup."
+      "corps": "Les serveurs de la communauté sont payés et administrés par des gens qui le font sur leur temps.\n\nSi tu joues régulièrement, un mot de remerciement coûte peu et fait beaucoup."
     }
   ]
 }
